@@ -1,4 +1,4 @@
-test master
+test dev
 add dev
 int main()
 {
