@@ -1,3 +1,4 @@
+add dev new
 add dev
 int main()
 {
