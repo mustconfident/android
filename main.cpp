@@ -6,4 +6,5 @@ int main()
 	int j;
 
 	return 0;
+ add line in main
 }
