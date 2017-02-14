@@ -1,0 +1,111 @@
+[33mcommit 5a5a57393350dbd7c4e8a7f8f540098a7088a5be[m
+Author: huyisu <631979801@qq.com>
+Date:   Fri Feb 10 17:48:08 2017 +0800
+
+    add line in first line again
+
+[33mcommit f7edbf6377ddb9b810643a055ffd4b00a316b0c7[m
+Merge: c5ee7b3 faf3b85
+Author: huyisu <631979801@qq.com>
+Date:   Fri Feb 10 17:45:56 2017 +0800
+
+    Merge branch 'dev'
+
+[33mcommit faf3b852a7810275a923ddf5526746d6f570d129[m
+Author: huyisu <631979801@qq.com>
+Date:   Fri Feb 10 17:45:35 2017 +0800
+
+    add line in first line
+
+[33mcommit c5ee7b383c60377cdadeafa64026875c052498f5[m
+Author: huyisu <631979801@qq.com>
+Date:   Fri Feb 10 17:44:05 2017 +0800
+
+    add line in main
+
+[33mcommit 9ff02addc7b80a45603788e56ca0b10857bf2ad2[m
+Author: huyisu <631979801@qq.com>
+Date:   Fri Feb 10 17:20:35 2017 +0800
+
+    add dev new
+
+[33mcommit d7c181eac8113b2b42382279d1b3bdfbd29ace92[m
+Author: huyisu <631979801@qq.com>
+Date:   Fri Feb 10 12:44:49 2017 +0800
+
+    delete tt.cpp
+    Please enter the commit message for your changes. Lines starting
+
+[33mcommit 063e34a58fe591e6c74d6b8263c4647955ff78a2[m
+Author: huyisu <631979801@qq.com>
+Date:   Fri Feb 10 12:43:18 2017 +0800
+
+    add tt.cpp
+
+[33mcommit 5038f3b8567328c267b32cca45d50abeb6812df2[m
+Author: huyisu <631979801@qq.com>
+Date:   Fri Feb 10 12:26:49 2017 +0800
+
+    delete first line test dev
+
+[33mcommit 650761d4ad8ed099ad17b349d83185a790472fbc[m
+Author: huyisu <631979801@qq.com>
+Date:   Fri Feb 10 11:53:34 2017 +0800
+
+    add test file
+
+[33mcommit 16adc78f04767595eea944e9c2f609d876f8606c[m
+Merge: 832b767 da59b0c
+Author: huyisu <631979801@qq.com>
+Date:   Sun Feb 5 22:39:36 2017 +0800
+
+    fix confict
+
+[33mcommit 832b767ecb300832c26dbc753970a647784ebd25[m
+Author: huyisu <631979801@qq.com>
+Date:   Sun Feb 5 22:37:14 2017 +0800
+
+    test master
+
+[33mcommit da59b0cce686bf665b7ab72fc14819fc8bbed054[m
+Author: huyisu <631979801@qq.com>
+Date:   Sun Feb 5 22:36:04 2017 +0800
+
+    test dev
+
+[33mcommit 79b6fee44e9a63bfb9175ec89f99ae6a62560fda[m
+Author: huyisu <631979801@qq.com>
+Date:   Sun Feb 5 20:33:47 2017 +0800
+
+    add dev in main.cpp
+
+[33mcommit 3beaedd00480523582b1f9e48b08e84832092612[m
+Author: huyisu <631979801@qq.com>
+Date:   Sat Feb 4 23:43:58 2017 +0800
+
+    new new night commit
+    dddddd
+
+[33mcommit d97b3f94f690064915bf5cfb18e467625cdababb[m
+Author: huyisu <631979801@qq.com>
+Date:   Sat Feb 4 07:59:15 2017 +0800
+
+    new new commit add int i;
+
+[33mcommit 1f498a771363ee6ed00307d7d15d9cfb215fe187[m
+Author: huyisu <631979801@qq.com>
+Date:   Fri Feb 3 22:31:30 2017 +0800
+
+    new commit
+
+[33mcommit 098ccdb689f2201e43729f21bac4a1ef20c99f15[m
+Author: huyisu <631979801@qq.com>
+Date:   Fri Feb 3 21:58:02 2017 +0800
+
+    first commit
+
+[33mcommit ca5ebefeec9039d95521d4ea442e57343ab3a7e7[m
+Author: tom <631979801@qq.com>
+Date:   Fri Feb 3 21:54:51 2017 +0800
+
+    Initial commit
